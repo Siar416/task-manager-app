@@ -1,4 +1,4 @@
-##Task Manager Project
+Task Manager Project
 
 Simple application made to sharpen skills. Followed along video "Node.js / Express Course - Build 4 Projects - from freeCodeCamp.org Youtube channel, lead by John Smilga"
 
